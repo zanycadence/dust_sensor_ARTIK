@@ -1,0 +1,16 @@
+{
+  "name": "dust_sensor_app",
+  "version": "0.0.1",
+  "description": "Basic Dust Sensor logging for Artik",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah Scheele",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "noble": "^1.7.0",
+    "node-rest-client": "^2.0.1"
+  }
+}
